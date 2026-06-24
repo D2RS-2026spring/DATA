@@ -42,13 +42,27 @@ reproduce-project/
 4. 所有代码无报错、无依赖缺失、无数据不匹配问题
 
 # 5. 复现结果（已全部成功生成）
-1. Fig1 反应机理与富集过程示意图
-2. Fig2 基础电化学性能图（电压+极化+电位+COD）
-3. Fig3 Cu²⁺胁迫下电化学性能图
-4. Fig4 EIS阻抗谱对比图
-5. Fig5 Cu²⁺去除动力学 + XPS表征
-6. Fig6 O 1s XPS、XRD、FTIR及电镜图
-7. Fig7 微生物群落多样性与丰度分析
+
+## Fig1 反应机理与富集过程示意图
+![反应机理与富集过程示意图](output/Fig1_mechanism.png)
+
+## Fig2 基础电化学性能图（电压+极化+电位+COD）
+![基础电化学性能图](output/Fig2_basic_performance.png)
+
+## Fig3 Cu²⁺胁迫下电化学性能图
+![Cu²⁺胁迫下电化学性能图](output/Fig3_Cu_effect.png)
+
+## Fig4 EIS阻抗谱对比图
+![EIS阻抗谱对比图](output/Fig4_EIS.png)
+
+## Fig5 Cu²⁺去除动力学 + XPS表征
+![Cu²⁺去除动力学 + XPS表征](output/Fig5_Cu_removal_XPS.png)
+
+## Fig6 O 1s XPS、XRD、FTIR及电镜图
+![O 1s XPS、XRD、FTIR及电镜图](output/Fig6_characterization.png)
+
+## Fig7 微生物群落多样性与丰度分析
+![微生物群落多样性与丰度分析](output/Fig7_microbial_community.png)
 
 # 6. 可重复性评估
 1. 代码完整性：全流程自动化绘图，无手动操作，无截断、无笔误、无语法错误
